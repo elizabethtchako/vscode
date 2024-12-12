@@ -1,0 +1,27 @@
+# METHODS - 
+
+
+#.append('value')	Add an item to the end of the list LEARNED 
+#.clear()	Remove all items from the list
+#.copy()	Return a shallow copy of the list
+#.count()	Return the number of times the value appears in the list
+#.extend()	Appends another list to the current list by extending it
+#.index()	Returns the index of a value inside the list
+#.insert(index, 'value')	Insert an item at a specified position in the list LEARNED
+#.pop()	    Remove an item from the last position in the list LEARNED 
+#.pop(index) Remove an item from a specified position in the list LEARNED 
+#.remove('value')	Remove an item from the list based on the value of the item (first occurence)
+#.reverse()	Reverses the list in place
+#.sort()	    Sorts the list in place LEARNED
+#.upper()
+#.title()
+#.lower()
+
+
+
+# FUNCTIONS - 
+
+
+# sorted(argument)
+# sorted(argument,reverse=True)
+# len(argument)
