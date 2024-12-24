@@ -24,3 +24,4 @@ print()
 
 for location in rivers.values():
     print(f"Location: {location.title()}")
+

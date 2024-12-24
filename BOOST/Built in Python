@@ -17,6 +17,17 @@
 #.title()
 #.lower()
 
+#list()
+#range(-1-the number) example. 30 is until 29 but 0 counts so its "still 30"
+#range(start number,-1-the number) example. 30 is until 29 but 0 counts so its "still 30"
+
+#DICTIONARIES
+#.get()
+#.items()
+#.keys()
+#.values()
+#set(dict.values())
+#set(dict.keys())
 
 
 # FUNCTIONS - 
